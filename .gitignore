@@ -6,3 +6,13 @@ __pycache__/
 venv/
 .env
 .DS_Store
+
+# Ignore extra root-level files not needed for the app
+books.db
+books_data.csv
+final_books_data.csv
+check.py
+main*.py
+separate_space.py
+using_*.py
+dd
